@@ -38,7 +38,7 @@ function LeftChatBox(props) {
             <BsFillChatLeftDotsFill className=" ms-3 text-primary h4" />
 
             {/* github Link  */}
-            <a href="https://github.com/M-Sai-Sravani/Chat-App-using-react.js" target="_blank" rel="noreferrer">< BsGithub className="ms-3 text-primary h3" /> </a>
+            <a href="https://github.com/M-Sai-Sravani/Chat-app-using-React" target="_blank" rel="noreferrer">< BsGithub className="ms-3 text-primary h3" /> </a>
           </div>
         </div>
         {/* <!-- **********************  search Bar  ******************* --> */}
